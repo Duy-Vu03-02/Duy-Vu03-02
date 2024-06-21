@@ -22,6 +22,9 @@
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+</a>
 <h5>BackEnd/Servers</h5>
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
