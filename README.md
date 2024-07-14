@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ngo Duy Vu </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer&center=true&width=500&height=50"></a>
 </p>
 <h2 align="center">🛠️ My Skills </h2>
 <h5>FrontEnd</h5>
